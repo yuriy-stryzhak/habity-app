@@ -1,0 +1,36 @@
+{
+    "app": {
+        "title": "Habity",
+        "description": "Відстежуйте звички та створюйте кращі рутини.",
+        "slogan": "Відстежуй звички. Змінюй життя."
+    },
+    "nav": {
+        "home": "Головна",
+        "dashboard": "Панель",
+        "settings": "Налаштування",
+        "language": "Мова",
+        "logout": "Вийти"
+    },
+    "auth": {
+        "login": "Увійти",
+        "register": "Зареєструватися",
+        "logout": "Вийти",
+        "login_with_google": "Увійти через Google"
+    },
+    "habit": {
+        "title": "Мої звички",
+        "add_habit": "Додати звичку",
+        "habit_name": "Назва звички",
+        "habit_description": "Опис",
+        "frequency": "Частота",
+        "daily": "Щоденно",
+        "weekly": "Щотижня",
+        "monthly": "Щомісяця",
+        "create": "Створити",
+        "cancel": "Скасувати"
+    },
+    "notifications": {
+        "habit_created": "Звичку успішно створено!",
+        "habit_deleted": "Звичку видалено."
+    }
+}

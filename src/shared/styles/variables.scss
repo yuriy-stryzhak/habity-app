@@ -1,0 +1,8 @@
+
+$body-font-family: 'Montserrat', sans-serif;
+$button-border-radius: 12px;
+
+@use 'vuetify/settings' with (
+    $body-font-family: $body-font-family,
+    $button-border-radius: $button-border-radius
+);

@@ -1,0 +1,36 @@
+{
+    "app": {
+        "title": "Habity",
+        "description": "Track your habits and build better routines.",
+        "slogan": "Track your habits. Change your life."
+    },
+    "nav": {
+        "home": "Home",
+        "dashboard": "Dashboard",
+        "settings": "Settings",
+        "language": "Language",
+        "logout": "Logout"
+    },
+    "auth": {
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout",
+        "login_with_google": "Login with Google"
+    },
+    "habit": {
+        "title": "My Habits",
+        "add_habit": "Add Habit",
+        "habit_name": "Habit Name",
+        "habit_description": "Description",
+        "frequency": "Frequency",
+        "daily": "Daily",
+        "weekly": "Weekly",
+        "monthly": "Monthly",
+        "create": "Create",
+        "cancel": "Cancel"
+    },
+    "notifications": {
+        "habit_created": "Habit successfully created!",
+        "habit_deleted": "Habit deleted."
+    }
+}

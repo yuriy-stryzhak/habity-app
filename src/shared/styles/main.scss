@@ -1,0 +1,9 @@
+@use './variables' as *;
+
+html, body {
+    min-height: 100%;
+    margin: 0;
+    background-color: var(--v-theme-primary);
+    color: var(--v-theme-text);
+    font-family: $body-font-family;
+}
